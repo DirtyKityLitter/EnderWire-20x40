@@ -15,4 +15,5 @@ The printed parts fit MN LaserCutting Ender 3 to Switchwire Conversion Panel Set
 
 found here: https://mnlasercutting.com/shop/p/ender-3-to-switchwire-conversion-panel-set
 
-![EnderWire_Panels_Render_v1_2023-Jan-16_09-35-18PM-000_CustomizedView7161026740](https://github.com/DirtyKityLitter/EnderWire-20x40/assets/118041236/2213610c-cf01-4e4c-bfbb-be9a30ccc387)
+![MNLaserCutting_Enderwire_Panels](https://github.com/DirtyKityLitter/EnderWire-20x40/assets/118041236/96045982-1531-43fc-ad3b-27afda7e1629)
+
