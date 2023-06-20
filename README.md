@@ -10,3 +10,9 @@ All parts labeled “Creality” such as: “Creality_Rear_Y_motor_Mount_Left”
 Everything else is EnderWire except for the Front and Rear Center Skirts. The front skirt I designed does not allow a screen or controller to be mounted keeping the frame “clean” I use a RaspberryPi running Klipper and have a 7” touchscreen mounted away from the printer itself. Feel free to use the optional front mount if you want a “full switchwire conversion” from boubounokefalos and clintiepoo included in this repository. 
 
 All Parts are designed with shrinkage in mind. If you have any suggestions in terms of part orientation and printing let me know. All parts in pictures printed on a Voron 2.4r with Stealthburner Tool Head running a Voron Revo 4mm High Flow Nozzle using MatterHackers ABS filament.
+
+The printed parts fit MN LaserCutting Ender 3 to Switchwire Conversion Panel Set. For the full enclosure it will cost you around $115.00
+
+found here: https://mnlasercutting.com/shop/p/ender-3-to-switchwire-conversion-panel-set
+
+![EnderWire_Panels_Render_v1_2023-Jan-16_09-35-18PM-000_CustomizedView7161026740](https://github.com/DirtyKityLitter/EnderWire-20x40/assets/118041236/2213610c-cf01-4e4c-bfbb-be9a30ccc387)
